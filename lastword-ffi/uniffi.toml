@@ -1,0 +1,6 @@
+[bindings.kotlin]
+package_name = "org.rustylibs.lastword"
+cdylib_name = "lastwordffi"
+
+[bindings.swift]
+cdylib_name = "lastwordffi"

@@ -1,0 +1,25 @@
+target
+Cargo.lock
+
+.idea/
+lastword-bindings.iml
+liblastwordffi.so
+lastword.kt
+local.properties
+.DS_Store
+
+# swift related
+/.build
+/.swiftpm
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+lastwordFFI.xcframework.zip
+lastwordFFI
+*.a
+Lastword.swift
+lastwordFFI.h
+.build
+.swiftpm

@@ -1,0 +1,6 @@
+framework module lastwordFFI {
+  umbrella header "lastwordFFI-umbrella.h"
+
+  export *
+  module * { export * }
+}
